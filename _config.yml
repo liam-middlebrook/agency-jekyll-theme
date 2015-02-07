@@ -13,15 +13,15 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
-people:
-- name: Liam Middlebrook
-  pic: 1
-  position: Engine Developer
-  social:
-    - title: twitter
-      url: http://twitter.com/liammiddlebrook
-    - title: github
-      url: https://github.com/liam-middlebrook
+#people:
+#- name: Liam Middlebrook
+#  pic: 1
+#  position: Engine Developer
+#  social:
+#    - title: twitter
+#      url: http://twitter.com/liammiddlebrook
+#    - title: github
+#      url: https://github.com/liam-middlebrook
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
