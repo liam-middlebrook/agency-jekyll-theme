@@ -3,8 +3,12 @@ title: Splattershmup
 subtitle: A Game of Art and Motion
 layout: default
 modal-id: 1
+date: 2014-07-18
 img: splattershmup.png
 thumbnail: splattershmup-thumbnail.png
+project-date: Fall 2014
+client: 
+category: Graphics Programming
 alt: image-alt
 description: | Splattershmup is a game that explores the intersection of the classic shoot-em-up (or 'shmup') form and action-oriented art as popularized through 'action painting' (as popularized by American artist Jackson Pollock). In this way, it is a game that allows the player to reflect on their in-game actions and stragety through visual reflection, and to create art to be shared and discussed that comes 'from inside the moment' of action and decision.
 
