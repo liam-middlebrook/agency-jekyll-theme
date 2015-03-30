@@ -8,6 +8,6 @@ img: ofcourse.png
 thumbnail: ofcourse-thumbnail.png
 alt: image-alt
 project-date: Summer 2014 - Present
-description: Python courseware leveraging Flask and OpenShift. <a href="https://github.com/ryansb/ofcourse">Source on GitHub</a>
+description: Python courseware leveraging Flask and OpenShift. OfCourse is currently being used by three of the courses in the Minor in Free and Open Source Software at RIT. The thumbnail shows a screenshot from the page for the <a href="http://hfoss-ritigm.rhcloud.com">Humanitarion Free and Open Source Software Course.</a> <a href="https://github.com/ryansb/ofcourse">Source on GitHub</a>
 
 ---
