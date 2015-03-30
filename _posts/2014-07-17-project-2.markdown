@@ -8,6 +8,6 @@ img: water.jpg
 thumbnail: water-thumbnail.jpg
 alt: image-alt
 project-date: Summer 2014
-description: A Water Demo. [Source on GitHub](https://github.com/liam-middlebrook/opengl-water.git)
+description: A Water Demo. <a href="https://github.com/liam-middlebrook/opengl-water">Source on GitHub</a>
 
 ---
